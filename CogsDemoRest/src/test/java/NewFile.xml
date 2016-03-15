@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<process-instance-response>
+	<process-id>cogsDemo.customerRegistration</process-id>
+	<id>6</id>
+	<state>2</state>
+	<parentProcessInstanceId>0</parentProcessInstanceId>
+	<status>SUCCESS</status>
+	<url>/business-central/rest/runtime/Cognizant:cogsDemo:1.0/process/cogsDemo.customerRegistration/start</url>
+</process-instance-response>
